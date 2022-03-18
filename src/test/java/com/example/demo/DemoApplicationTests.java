@@ -6,7 +6,6 @@ import org.springframework.kafka.annotation.EnableKafka;
 import org.springframework.kafka.test.context.EmbeddedKafka;
 
 @EmbeddedKafka
-@SpringBootTest
 class DemoApplicationTests {
 
 	@Test
