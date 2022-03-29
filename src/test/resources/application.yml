@@ -1,0 +1,1 @@
+test.consumer.broker: 'PLAINTEXT://localhost:9092'
