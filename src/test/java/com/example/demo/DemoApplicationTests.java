@@ -55,4 +55,11 @@ class DemoApplicationTests {
 //		Map<String, Object> producerProps = new HashMap<>(KafkaTestUtils.producerProps(embeddedKafkaBroker));
 //		return new DefaultKafkaProducerFactory<Integer, String>(producerProps).createProducer();
 //	}
+//	https://blog.mimacom.com/testing-apache-kafka-with-spring-boot-junit5/
+//	https://stackoverflow.com/questions/48753051/simple-embedded-kafka-test-example-with-spring-boot
+//	https://blog.knoldus.com/testing-spring-embedded-kafka-consumer-and-producer/
+//	https://medium.com/trendyol-tech/how-to-integration-test-on-spring-kafka-producer-cb9d1caf0795
+//	https://www.baeldung.com/spring-boot-kafka-testing
+//	https://github.com/Kevded/integration-test-spring-kafka-with-embedded-kafka-consumer-and-producer
+//	https://www.google.com/search?channel=fs&client=ubuntu&q=spring+boot+kafka+integration+test+example
 }
